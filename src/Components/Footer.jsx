@@ -7,7 +7,7 @@ const Footer = () => {
       <ul className='flex gap-6 font-lato text-gray-400'>
 
         <li>
-          <a href="#">Facebook</a>
+          <a href="#">Fb</a>
         </li>
         <li>
           <a href="#">Instagram</a>
