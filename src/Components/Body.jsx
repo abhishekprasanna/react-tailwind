@@ -10,7 +10,7 @@ const Body = () => {
                 <img src="./assets/Hero-Model.png" alt="image4" className='absolute h-64 md:h-72' />
             </div>
             <div>
-                <h1 className='text-5xl font-bold font-playfair leading-tight'>Host Your WebSite In Less Than 5 Minites</h1>
+                <h1 className='text-5xl font-bold font-playfair leading-tight'>Host Your WebSite In Less Than 2 Minites</h1>
                 <p>With Hosterr, Get Your Website Up And running In Less Than 5 min With Most Compatative Pricing Packages Avaliable Online.</p>
                 <form action="" className='flex flex-col gap-4 md:flex-row'>
                     <input className='rounded-md px-4 py-3 placeholder:text-gray-400' type="email" placeholder='emter your email'/>
